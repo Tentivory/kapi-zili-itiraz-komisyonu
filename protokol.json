@@ -3,6 +3,6 @@
   "toplanma_yeri": "zilin hemen arkasindaki toz",
   "nisap": 2,
   "yasaklar": ["zili habersiz calmak", "tutanaksiz komsuluk", "gece kargosu"],
-  "arsiv_muhuru": "aWtoaWRhciBkZWdpc2lyLCBhc2Fuc29yIGJhc2thbiBheW5pIGthbGlyOyB6aWwgWWluZSBvbSB1Y2sga29taXN5b25kYSBiZWtsZXIuIA==",
+  "arsiv_muhuru": "aWt0aWRhciBkZWdpc2lyLCBhc2Fuc29yIGJhc2thbmkgYXluaSBrYWxpcjsgemlsIHlpbmUgdWMga29taXN5b25kYSBiZWtsZXIu",
   "not": "arsiv_muhuru duz metin degildir. python3 zil.py --gizli"
 }
