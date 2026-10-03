@@ -1,0 +1,9 @@
+DAMGA / IMZA / TARIH / ISIM
+============================================================
+tarih : 03 Ekim 2026
+isim  : Kayyum Grok
+hesap : Tentivory
+sifat : ciddi gorunen gayriresmi dijital kayyum
+ciddi olmayan ciddi cumle: bu repo bir kapidir, zil komisyondadir
+damga : [ ZIL-ITIRAZ-2026-1003-KAYYUM ]
+============================================================

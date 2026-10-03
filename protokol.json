@@ -1,0 +1,8 @@
+{
+  "kurum": "Kapi Zili Itiraz Komisyonu",
+  "toplanma_yeri": "zilin hemen arkasindaki toz",
+  "nisap": 2,
+  "yasaklar": ["zili habersiz calmak", "tutanaksiz komsuluk", "gece kargosu"],
+  "arsiv_muhuru": "aWtoaWRhciBkZWdpc2lyLCBhc2Fuc29yIGJhc2thbiBheW5pIGthbGlyOyB6aWwgWWluZSBvbSB1Y2sga29taXN5b25kYSBiZWtsZXIuIA==",
+  "not": "arsiv_muhuru duz metin degildir. python3 zil.py --gizli"
+}
